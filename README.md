@@ -1,6 +1,5 @@
 #ROS MYANMAR TEAM
-###iNTRO
+###INTRO
 
 
-<video>https://youtu.be/iTVKuR4HmAk</video>
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/iTVKuR4HmAk
+[![Alt text for your video]](https://youtu.be/iTVKuR4HmAk)
