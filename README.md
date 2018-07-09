@@ -1,7 +1,7 @@
-ROS MYANMAR TEAM
-INTRO 
+<h2> ROS MYANMAR TEAM <h2>
+<h3> INTRO </h3>
   
-  <img src="https://github.com/GreenGhostMan/two_robot_arm/blob/master/two_arm.jpg" width="100" height="70"/>
+  <img src="https://github.com/GreenGhostMan/two_robot_arm/blob/master/two_arm.jpg" width="350" height="300"/>
 <h4>  1) Controller </h4>
 Controller.launch သည် အခြေခံကျဆုံးသော launch ဖိုင်ဖြစ်ပီး အခြား launch များမှ နမူနာ သုံးစွဲကြရန်ဖြစ်ပါသည်။
 controller.launch ရဲ့ controller spawner node တွင် ros_mm_arm တစ်ခုအတွက်သာ joint အရေအတွက်ထဲ့ထားပါသည်။
