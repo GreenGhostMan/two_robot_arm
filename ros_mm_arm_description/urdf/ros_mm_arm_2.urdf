@@ -53,7 +53,7 @@
     <visual>
       <origin rpy="0 0 0" xyz=" 0 0 0 "/>
       <geometry>
-        <mesh filename="package://turtlebot_arm_description/meshes/ax12_box.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://ros_mm_arm_description/meshes/ax12_box.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="Black"/>
     </visual>
@@ -86,7 +86,7 @@
     <visual>
       <origin rpy="0 0 0" xyz=" 0 0 0 "/>
       <geometry>
-        <mesh filename="package://turtlebot_arm_description/meshes/F3.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://ros_mm_arm_description/meshes/F3.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="Orange"/>
     </visual>
@@ -116,7 +116,7 @@
     <visual>
       <origin rpy="0 0 0" xyz=" 0 0 0 "/>
       <geometry>
-        <mesh filename="package://turtlebot_arm_description/meshes/ax12_box.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://ros_mm_arm_description/meshes/ax12_box.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="Black"/>
     </visual>
@@ -149,7 +149,7 @@
     <visual>
       <origin rpy="0 0 0" xyz=" 0 0 0 "/>
       <geometry>
-        <mesh filename="package://turtlebot_arm_description/meshes/F4.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://ros_mm_arm_description/meshes/F4.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="Orange"/>
     </visual>
@@ -187,7 +187,7 @@
     <visual>
       <origin rpy="0 0 0" xyz=" 0 0 0 "/>
       <geometry>
-        <mesh filename="package://turtlebot_arm_description/meshes/F3.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://ros_mm_arm_description/meshes/F3.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="Orange"/>
     </visual>
@@ -217,7 +217,7 @@
     <visual>
       <origin rpy="0 0 0" xyz=" 0 0 0 "/>
       <geometry>
-        <mesh filename="package://turtlebot_arm_description/meshes/ax12_box.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://ros_mm_arm_description/meshes/ax12_box.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="Black"/>
     </visual>
@@ -250,7 +250,7 @@
     <visual>
       <origin rpy="0 0 0" xyz=" 0 0 0 "/>
       <geometry>
-        <mesh filename="package://turtlebot_arm_description/meshes/F2.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://ros_mm_arm_description/meshes/F2.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="Orange"/>
     </visual>
@@ -280,7 +280,7 @@
     <visual>
       <origin rpy="0 0 0" xyz=" 0 0 0 "/>
       <geometry>
-        <mesh filename="package://turtlebot_arm_description/meshes/F3.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://ros_mm_arm_description/meshes/F3.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="Orange"/>
     </visual>
@@ -310,7 +310,7 @@
     <visual>
       <origin rpy="0 0 0" xyz=" 0 0 0 "/>
       <geometry>
-        <mesh filename="package://turtlebot_arm_description/meshes/ax12_box.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://ros_mm_arm_description/meshes/ax12_box.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="Black"/>
     </visual>
@@ -343,7 +343,7 @@
     <visual>
       <origin rpy="0 0 0" xyz=" 0 0 0 "/>
       <geometry>
-        <mesh filename="package://turtlebot_arm_description/meshes/F2.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://ros_mm_arm_description/meshes/F2.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="Orange"/>
     </visual>
@@ -368,7 +368,7 @@
     <visual>
       <origin rpy="0 0 0" xyz=" 0 0 0 "/>
       <geometry>
-        <mesh filename="package://turtlebot_arm_description/meshes/turtlebot_finger.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://ros_mm_arm_description/meshes/turtlebot_finger.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="Orange"/>
     </visual>
@@ -398,7 +398,7 @@
     <visual>
       <origin rpy="0 0 0" xyz=" 0 0 0 "/>
       <geometry>
-        <mesh filename="package://turtlebot_arm_description/meshes/F3.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://ros_mm_arm_description/meshes/F3.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="Orange"/>
     </visual>
@@ -428,7 +428,7 @@
     <visual>
       <origin rpy="0 0 0" xyz=" 0 0 0 "/>
       <geometry>
-        <mesh filename="package://turtlebot_arm_description/meshes/turtlebot_finger.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://ros_mm_arm_description/meshes/turtlebot_finger.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="Orange"/>
     </visual>
