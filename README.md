@@ -14,7 +14,11 @@ republisher node ကတော့ master arm ရဲ့ servo state ကို  sla
 controller.launch ကို ပြင်ရေးတဲ့အခါ ros_mm_arm ၂ ခုအတွက် controller spawner များတွင်ရေးထားပါသည်။
 <h4> 3) Moveit </h4>
 Moveit နဲ့ရေးရာမှာတော့ dual positon controller အနေနဲ့ရေးပါသည်။
+controller_two_arms_moveit .. စတဲ့ launch တွေကတော့ arm ၂ခုသုံးလို့ရေအာင် yaml တွေကို ပြင်ထားတာပါ။
 yaml ဖိုင်များ ကိုလေ့လာကြည့်ပါ။
+သင့်မှာ arm တခုပဲရှိရင်တော့ controller.launch နဲ့ပဲရပါပီ။
+moveit အတွက်ကတော့ demo.launch ကို ပြင်ရေးရမည်။
+
   
 
 
